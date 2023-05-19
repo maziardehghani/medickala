@@ -237,7 +237,7 @@ class model_adminproduct extends model
         }
 
         if ($UploadOK == 1) {
-            
+
             $ext = pathinfo($fileName, PATHINFO_EXTENSION);
             $target = $targetMain .'/large/'. $newName . '.' . $ext;
             $target_small = $targetMain .'/small/'. $newName . '.' . $ext;

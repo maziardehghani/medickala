@@ -4,15 +4,94 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5158aa5-69e8-47c4-a246-645bf3d7df4c" name="Default" comment="" />
+    <list default="true" id="d5158aa5-69e8-47c4-a246-645bf3d7df4c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/init.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helpers/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/front/master/foot.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/front/master/head.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/front/master/modals.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/front/master/script.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/front/master/slider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/medickala.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/medickala.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controler/aboutUs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controler/admincategory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controler/admincomment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controler/admindashbord.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controler/adminlogin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controler/adminorder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controler/adminproduct.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controler/adminsetting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controler/adminslider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controler/adminstat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controler/adminuser.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controler/blog.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controler/checkout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controler/contactUs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controler/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controler/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controler/panel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controler/proList.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controler/product.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controler/showcart.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controler/showcart1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controler/test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/model.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/model.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/model_adminproduct.php" beforeDir="false" afterPath="$PROJECT_DIR$/model/model_adminproduct.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/aboutUs/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/blog/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/checkout/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/contactUs/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/index/best seller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/index/favorit category.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/index/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/index/last suggest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/index/most viewd.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/index/slider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/index/special product.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/login/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/panel/actions_bottom.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/panel/actions_top.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/panel/changePassword.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/panel/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/panel/layout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/panel/myComment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/panel/myMassage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/panel/myOrder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/panel/mycopen.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/panel/profile.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/panel/shopInfo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/panel/userInfo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/proList/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/product/Specials.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/product/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/product/specification.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/product/tab1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/product/tab2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/product/tab3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/product/tab4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/showcart/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/showcart1/index.php" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" notifyAboutMissingVendor="false">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
-      <executable />
+      <executable path="composer" />
     </execution>
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -32,11 +111,32 @@
     <expand />
     <select />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="digikalamvc" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="PhpServers">
     <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+    </include_path>
   </component>
   <component name="ProjectId" id="21Aa7YL6L1IbUhjND9pi8rkuKzE" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -60,30 +160,37 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\medickala\view\product" />
-      <recent name="C:\xampp\htdocs\medickala\model" />
-      <recent name="C:\xampp\htdocs\medickala\public\fonts\Linearicons\Font" />
-      <recent name="C:\xampp\htdocs\medickala\public\fonts\Linearicons\Font\demo-files" />
-      <recent name="C:\xampp\htdocs\medickala" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\xampp\htdocs\digikalamvc\controllers" />
       <recent name="D:\xampp\htdocs\digikalamvc" />
       <recent name="D:\xampp\htdocs\digikalamvc\views\admin\category" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\medickala" />
+      <recent name="C:\xampp\htdocs\medickala\app" />
+      <recent name="C:\xampp\htdocs\medickala\view\front\master" />
+      <recent name="C:\xampp\htdocs\medickala\view\product" />
+      <recent name="C:\xampp\htdocs\medickala\model" />
+    </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ComposerRunConfigurationType" factoryName="Composer Script">
+      <option name="pathToComposerJson" value="$PROJECT_DIR$/composer.json" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -94,6 +201,7 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -282,11 +390,23 @@
       <workItem from="1664228934262" duration="226000" />
       <workItem from="1664298983948" duration="229000" />
       <workItem from="1664448924449" duration="31000" />
+      <workItem from="1684496152835" duration="5452000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -295,15 +415,5 @@
     <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="499" y="110" key="FileChooserDialogImpl" timestamp="1664448953753">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="499" y="110" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1664448953753" />
-    <state x="401" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1664448926558">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="401" y="195" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1664448926558" />
   </component>
 </project>

@@ -1,0 +1,1 @@
+<?phpfunction asset($path){    return $_ENV['PUBLIC_PATH'].$path;}

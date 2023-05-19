@@ -25,7 +25,7 @@ class app
 
             $this->params = array_values($url);
         }
-        $controller_url = 'controler/'.$this->controller.'.php';
+        $controller_url = 'controler/front/'.$this->controller.'.php';
         if (file_exists($controller_url))
         {
             require ($controller_url);

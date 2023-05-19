@@ -5,22 +5,11 @@ class controller
     function __construct()
     {
     }
-    function viewUrl($Url , $data=[], $include_header = true,$include_footer = true)
+    function view($Url , $data=[])
     {
-        if($include_header)
-        {
-            require ('header.php');
-        }
-
         if (file_exists('view/'.$Url.'.php'))
         {
             require ('view/'.$Url.'.php');
-        }
-
-
-        if($include_footer)
-        {
-            require ('footer.php');
         }
 
     }
